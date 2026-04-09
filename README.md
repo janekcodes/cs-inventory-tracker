@@ -1,8 +1,15 @@
 # 🎮 Counter-Strike Inventory Tracker 📊
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/janekcodes/cs-inventory-tracker/releases)
+[![GitHub stars](https://img.shields.io/github/stars/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/network)
+[![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-green)](https://www.microsoft.com/excel)
+[![Made with Google Sheets](https://img.shields.io/badge/Made%20with-Google%20Sheets-blue)](https://www.google.com/sheets/about/)
 
-Customizable Counter-Strike inventory tracker designed to help **players and teams** manage their inventory efficiently.  
+> Track, analyze, and optimize your Counter-Strike inventory with ease.
+
+A **Counter-Strike inventory tracker built in Excel and Google Sheets**, designed to help **players and teams** manage inventory efficiently.
 Features **automated calculations** for profit/loss, **trade tracking**, and flexible organization for items, cases, and cosmetics.
 
 ---
@@ -11,13 +18,13 @@ Features **automated calculations** for profit/loss, **trade tracking**, and fle
 
 This project started as a personal tool for managing my own Counter-Strike inventory.
 
-After discussing with friends and other players, I noticed a recurring problem: there was no complete and customizable system for tracking items, trades, and profitability in one place. Existing tools were either too limited or overly complex.
+After discussing with friends and other players, I noticed a recurring problem: there was no complete and customizable system for tracking items, trades, and profitability in one place. Existing online tools were either too limited, subscription based or overly complex.
 
-I initially experimented with AI-generated templates, but they lacked the structure, clarity, and consistency needed for real use.
+I initially experimented with AI-generated templates, but they lacked the structure, clarity, and consistency needed for real use!
 
 Another key consideration was accessibility. Counter-Strike has a wide player base across different age groups, and many users simply wanted something simple, intuitive, and reliable without unnecessary complexity.
 
-To address this, I built a system focused on:
+To address this, I built a spreadsheet focused on:
 
 - Simplicity and usability  
 - Structured and scalable data design  
@@ -29,17 +36,27 @@ What started as a small personal project evolved into a polished, flexible track
 
 ## ✨ Features
 
-- Track Counter-Strike inventory including items, cases, and cosmetics  
-- Automated calculations for purchase price, current market value, and profit/loss  
-- Flexible trade tracking and inventory management  
-- Clean folder structure for base data, future contributions, scripts, documentation, and screenshots  
-- Scalable workflow for community contributions with approval system
+- 📦 Track inventory (items, cases, cosmetics)  
+- 💰 Automated calculations:
+  - Purchase price  
+  - Current market value  
+  - Profit / loss  
+- 🔄 Trade tracking and inventory management  
+- 📊 Clean and scalable spreadsheet structure  
+- 🤝 Contribution workflow with review and approval system
 
 ---
 
-## 📂 Base Inventory Spreadsheet
+## 📂 Spreadsheet
 
-The official CS Inventory Tracker spreadsheet is available here: [cs-inventory-tracker.xlsx](data/cs-inventory-tracker.xlsx)
+The official Counter-Strike Inventory Tracker spreadsheet is available here:
+
+👉 **[Open in Google Sheets](https://docs.google.com/spreadsheets/d/1FUhwWi9YzfkHnesqfPGaWub7LKwah8y3D4wH4mGlZS0/edit?usp=sharing)**  
+👉 **[Download Excel Version](data/cs-inventory-tracker.xlsx)**
+
+- Works in **Microsoft Excel** and **Google Sheets**  
+- No installation required  
+- Beginner-friendly and fully customizable  
 
 > Future improved versions can be submitted to the `/contributions/` folder. Contributions require approval before merging.
 
@@ -51,16 +68,26 @@ The official CS Inventory Tracker spreadsheet is available here: [cs-inventory-t
 2. Open a Pull Request with a clear description of changes or enhancements  
 3. Only approved contributions will be merged to maintain quality and consistency
 
+For full guidelines, see 👉 [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ---
 
 ## 🖼️ Screenshots
 
-![Example Spreadsheet](screenshots/example.png)
+### Overview
+![Overview](screenshots/overview.png)
 
-> In Progress...
+### Master List
+![Master List](screenshots/master-list.png)
+
+### Loadout
+![Loadout](screenshots/loadout.png)
+
+> 🚧 More screenshots coming soon...
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.  
+👉 [View License](LICENSE)

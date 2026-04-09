@@ -1,6 +1,6 @@
 # Contributions Documentation
 
-Welcome to the **CS Inventory Tracker** contribution documentation.
+Welcome to the **Counter-Strike Inventory Tracker** contribution documentation.
 
 This guide provides a complete, structured, and professional workflow for contributing to the project.  
 All contributors are expected to follow these steps and standards to ensure code quality and maintainability.
@@ -30,7 +30,7 @@ Before contributing:
 ### Step 2 — Clone Your Fork
 
 ```bash
-git clone https://github.com/your-username/cs-inventory-tracker.git
+git clone https://github.com/YOUR-USERNAME/cs-inventory-tracker.git
 cd cs-inventory-tracker
 ```
 
@@ -53,7 +53,7 @@ git remote -v
 ```bash
 git fetch upstream
 git checkout main
-git merge upstream/main
+git rebase upstream/main
 ```
 
 ---
@@ -63,6 +63,7 @@ git merge upstream/main
 ```bash
 git checkout -b feature/your-feature-name
 ```
+⚠️ Do not commit or push directly to the main branch.
 
 ---
 
@@ -71,7 +72,7 @@ git checkout -b feature/your-feature-name
 While developing:
 
 - Follow guidelines in `/contributions/`
-- Write clean, readable, and maintainable code
+- Write clean, readable, and maintainable `.xlsx` files
 - Keep changes focused and minimal
 - Avoid unnecessary complexity
 
@@ -81,7 +82,7 @@ While developing:
 
 Before committing:
 
-- Run the project locally
+- Open the **Excel file** locally
 - Verify your changes work correctly
 - Ensure no existing functionality is broken
 - Check for errors or warnings
@@ -99,7 +100,7 @@ git add .
 Commit using Conventional Commits:
 
 ```bash
-git commit -m "feat: add inventory filtering system"
+git commit -m "feat: @username contribution"
 ```
 
 ---
@@ -115,19 +116,27 @@ git push origin feature/your-feature-name
 ### Step 10 — Open a Pull Request
 
 1. Go to your fork on GitHub
-2. Click Compare & pull request
+2. Click **Compare & pull request**
 3. Submit your PR to the main branch
+
+Include in your PR:
+
+- A clear description of changes
+- What problem it solves or improves
+- Screenshots (if applicable)
 
 ---
 
-### Keeping Your Fork Updated
+### 🔄 Keeping Your Fork Updated
 
 ```bash
-git fetch upstream
 git checkout main
-git merge upstream/main
+git fetch upstream
+git rebase upstream/main
+git push origin main
+
 git checkout your-branch
-git merge main
+git rebase main
 ```
 
 ---
