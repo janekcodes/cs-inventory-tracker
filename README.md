@@ -1,11 +1,21 @@
 # 🎮 Counter-Strike Inventory Tracker 📊
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/janekcodes/cs-inventory-tracker/releases)
-[![GitHub stars](https://img.shields.io/github/stars/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/network)
+## 📌 Project Info
+[![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/janekcodes/cs-inventory-tracker/releases)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![Maintenance](https://img.shields.io/badge/Maintained-Active-blue)](https://github.com/janekcodes/cs-inventory-tracker)
+
+## 💻 Platform
+[![Made with Google Sheets](https://img.shields.io/badge/Made%20with-Google%20Sheets-blue)](https://www.google.com/sheets/about/)  
 [![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-green)](https://www.microsoft.com/excel)
-[![Made with Google Sheets](https://img.shields.io/badge/Made%20with-Google%20Sheets-blue)](https://www.google.com/sheets/about/)
+
+## 📊 GitHub Stats
+[![GitHub stars](https://img.shields.io/github/stars/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/janekcodes/cs-inventory-tracker/network)](https://github.com/janekcodes/cs-inventory-tracker/network)  
+[![Open Issues](https://img.shields.io/github/issues/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/issues)  
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/janekcodes/cs-inventory-tracker/pulls)  
+[![Contributors](https://img.shields.io/github/contributors/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/commits/main)
 
 > Track, analyze, and optimize your Counter-Strike inventory with ease.
 
@@ -58,17 +68,17 @@ The official Counter-Strike Inventory Tracker spreadsheet is available here:
 - No installation required  
 - Beginner-friendly and fully customizable  
 
-> Future improved versions can be submitted to the `/contributions/` folder. Contributions require approval before merging.
+> Future improved versions can be submitted to the `contributions/` folder. Contributions require approval before merging.
 
 ---
 
 ## 🤝 Contribution Workflow
 
-1. Contributors can propose improved spreadsheets in the `/contributions/` folder  
+1. Contributors can propose improved spreadsheets in the `contributions/` folder  
 2. Open a Pull Request with a clear description of changes or enhancements  
 3. Only approved contributions will be merged to maintain quality and consistency
 
-For full guidelines, see 👉 [CONTRIBUTING.md](CONTRIBUTING.md)
+For full guidelines, see 👉 [CONTRIBUTING.md](docs/CONTRIBUTING.md)
 
 ---
 
