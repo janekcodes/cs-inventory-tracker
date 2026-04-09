@@ -1,4 +1,4 @@
-# Contributions Documentation
+# 🤝 Contributions Documentation
 
 Welcome to the **Counter-Strike Inventory Tracker** contribution documentation.
 
@@ -19,7 +19,7 @@ Before contributing:
 
 ## 🚀 Step-by-Step Contribution Process
 
-### Step 1 — Fork the Repository
+### Step 1 - Fork the Repository
 
 - Navigate to the GitHub repository  
 - Click the **Fork** button (top right)  
@@ -27,7 +27,7 @@ Before contributing:
 
 ---
 
-### Step 2 — Clone Your Fork
+### Step 2 - Clone Your Fork
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/cs-inventory-tracker.git
@@ -36,7 +36,7 @@ cd cs-inventory-tracker
 
 ---
 
-### Step 3 — Add Upstream Repository
+### Step 3 - Add Upstream Repository
 
 ```bash
 git remote add upstream https://github.com/janekcodes/cs-inventory-tracker.git
@@ -48,7 +48,7 @@ git remote -v
 
 ---
 
-### Step 4 — Sync with Latest Changes
+### Step 4 - Sync with Latest Changes
 
 ```bash
 git fetch upstream
@@ -58,7 +58,7 @@ git rebase upstream/main
 
 ---
 
-### Step 5 — Create a New Branch
+### Step 5 - Create a New Branch
 
 ```bash
 git checkout -b feature/your-feature-name
@@ -67,18 +67,18 @@ git checkout -b feature/your-feature-name
 
 ---
 
-### Step 6 — Make Your Changes
+### Step 6 - Make Your Changes
 
 While developing:
 
-- Follow guidelines in `/contributions/`
+- Follow guidelines in `contributions/`
 - Write clean, readable, and maintainable `.xlsx` files
 - Keep changes focused and minimal
 - Avoid unnecessary complexity
 
 ---
 
-### Step 7 — Test Your Changes
+### Step 7 - Test Your Changes
 
 Before committing:
 
@@ -89,7 +89,7 @@ Before committing:
 
 ---
 
-### Step 8 — Commit Changes
+### Step 8 - Commit Changes
 
 Stage your work:
 
@@ -105,7 +105,7 @@ git commit -m "feat: @username contribution"
 
 ---
 
-### Step 9 — Push Your Branch
+### Step 9 - Push Your Branch
 
 ```bash
 git push origin feature/your-feature-name
@@ -113,7 +113,7 @@ git push origin feature/your-feature-name
 
 ---
 
-### Step 10 — Open a Pull Request
+### Step 10 - Open a Pull Request
 
 1. Go to your fork on GitHub
 2. Click **Compare & pull request**
@@ -141,6 +141,7 @@ git rebase main
 
 ---
 
-### License
+### 📜 License
 
 By contributing, you agree that your contributions are licensed under the project's license.
+👉 [View License](../LICENSE)
