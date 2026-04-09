@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/janekcodes/cs-inventory-tracker/releases)
 [![Maintenance](https://img.shields.io/badge/Maintained-Active-blue)](https://github.com/janekcodes/cs-inventory-tracker)
 [![Made with Google Sheets](https://img.shields.io/badge/Made%20with-Google%20Sheets-blue)](https://docs.google.com/spreadsheets/d/1FUhwWi9YzfkHnesqfPGaWub7LKwah8y3D4wH4mGlZS0/edit?usp=sharing)
-[![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-green)](docs/cs-inventory-tracker.xlsx)
+[![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-green)](data/cs-inventory-tracker.xlsx)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/janekcodes/cs-inventory-tracker/pulls)
 [![Open Issues](https://img.shields.io/github/issues/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/commits/main)
