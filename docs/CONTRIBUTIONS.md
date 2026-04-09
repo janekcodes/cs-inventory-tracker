@@ -15,10 +15,6 @@ Before contributing:
 - Follow all workflows and standards  
 - Ensure your contribution aligns with project goals  
 
-Additional contribution resources can be found in:
-[Contributions Guide](../contributions/README.md)
-
-
 ---
 
 ## 🚀 Step-by-Step Contribution Process
