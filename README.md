@@ -2,8 +2,6 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# 🎯 Counter-Strike Inventory Tracker
-
 Customizable Counter-Strike inventory tracker designed to help **players and teams** manage their inventory efficiently.  
 Features **automated calculations** for profit/loss, **trade tracking**, and flexible organization for items, cases, and cosmetics.
 
@@ -43,13 +41,13 @@ What started as a small personal project evolved into a polished, flexible track
 
 The official CS Inventory Tracker spreadsheet is available here: [cs-inventory-tracker.xlsx](data/cs-inventory-tracker.xlsx)
 
-> Future improved versions can be submitted to the `contributions/` folder. Contributions require approval before merging.
+> Future improved versions can be submitted to the `/contributions/` folder. Contributions require approval before merging.
 
 ---
 
 ## 🤝 Contribution Workflow
 
-1. Contributors can propose improved spreadsheets in the `contributions/` folder  
+1. Contributors can propose improved spreadsheets in the `/contributions/` folder  
 2. Open a Pull Request with a clear description of changes or enhancements  
 3. Only approved contributions will be merged to maintain quality and consistency
 
@@ -59,7 +57,7 @@ The official CS Inventory Tracker spreadsheet is available here: [cs-inventory-t
 
 ![Example Spreadsheet](screenshots/example.png)
 
-> Placeholder for visuals. Add screenshots of your spreadsheet or charts here to showcase your work.
+> In Progress...
 
 ---
 
