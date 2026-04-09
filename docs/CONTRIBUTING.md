@@ -1,6 +1,6 @@
-# 🤝 Contributions Documentation
+# 🤝 Contributing Documentation
 
-Welcome to the **Counter-Strike Inventory Tracker** contribution documentation.
+Welcome to the **Counter-Strike Inventory Tracker** contributing documentation.
 
 This guide provides a complete, structured, and professional workflow for contributing to the project.  
 All contributors are expected to follow these steps and standards to ensure code quality and maintainability.
