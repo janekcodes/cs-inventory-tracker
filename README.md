@@ -2,20 +2,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
 
-
 [![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/janekcodes/cs-inventory-tracker/releases)  
 [![Maintenance](https://img.shields.io/badge/Maintained-Active-blue)](https://github.com/janekcodes/cs-inventory-tracker)
 [![Made with Google Sheets](https://img.shields.io/badge/Made%20with-Google%20Sheets-blue)](https://www.google.com/sheets/about/)  
 [![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-green)](https://www.microsoft.com/excel)
 
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/janekcodes/cs-inventory-tracker/pulls) 
 [![Open Issues](https://img.shields.io/github/issues/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/issues) 
 [![Last Commit](https://img.shields.io/github/last-commit/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/commits/main)
 
-
 [![Contributors](https://img.shields.io/github/contributors/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/graphs/contributors)
-
 
 [![GitHub stars](https://img.shields.io/github/stars/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/janekcodes/cs-inventory-tracker)](https://github.com/janekcodes/cs-inventory-tracker/network)
