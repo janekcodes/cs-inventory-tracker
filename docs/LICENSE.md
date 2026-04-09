@@ -1,26 +1,46 @@
-# License Overview
+# 📜 License Overview
 
-This project is licensed under the **MIT License**. See the [LICENSE](../LICENSE) file in the root directory for full legal details.
+This project is licensed under the **MIT License**.  
+For full legal details, see the official license file: 👉 [LICENSE](../LICENSE)
 
-## Permissions
+---
 
-Under this license, you are allowed to:
+## ✅ Permissions
 
-- Use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software
-- Include the copyright notice and this license in all copies or substantial portions of the software
+Under the MIT License, you are allowed to:
 
-## Restrictions
+- Use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software  
+- Use the project for personal or commercial purposes  
+- Modify the project and distribute your own versions  
 
-- The software is provided "as-is" without any warranty of any kind
-- The authors are not liable for any damages arising from the use of the software
+---
 
-## Guidelines for Contributors
+## ⚠️ Conditions
+
+You must:
+
+- Include the original copyright notice  
+- Include the MIT license in all copies or substantial portions of the software  
+
+---
+
+## ❌ Limitations
+
+- The software is provided **"as is"**, without warranty of any kind  
+- The authors are **not liable** for any damages arising from its use  
+
+---
+
+## 🤝 Guidelines for Contributors
 
 If you plan to contribute:
 
-1. Fork the repository and create a branch for your changes
-2. Submit a pull request referencing the relevant issue
-3. Ensure your changes comply with the MIT license terms
-4. Include attribution for any third-party resources you add
+1. Fork the repository and create a feature branch  
+2. Submit a Pull Request with a clear description of your changes  
+3. Ensure your contributions comply with the MIT license  
+4. Provide attribution for any third-party resources you include  
 
-> This LICENSE.md is for **clarity and guidance**. The full legal license is in the root `LICENSE` file.
+---
+
+> 💡 This document is intended for **clarity and guidance only**.  
+> The official and legally binding license is located in the root [`LICENSE`](../LICENSE) file.
