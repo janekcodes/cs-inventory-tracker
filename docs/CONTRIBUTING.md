@@ -144,4 +144,5 @@ git rebase main
 ### 📜 License
 
 By contributing, you agree that your contributions are licensed under the project's license.
+
 👉 [View License](../LICENSE)
