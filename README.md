@@ -1,4 +1,4 @@
-# 🎮 Counter-Strike Inventory Tracker 📊
+# Counter-Strike Inventory Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
 [![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/janekcodes/cs-inventory-tracker/releases)
@@ -20,7 +20,7 @@ Features **automated calculations** for profit/loss, **trade tracking**, and fle
 
 ---
 
-## 📌 Motivation
+## Motivation
 
 This project started as a personal tool for managing my own Counter-Strike inventory.
 
@@ -40,27 +40,27 @@ What started as a small personal project evolved into a polished, flexible track
 
 ---
 
-## ✨ Features
+## Features
 
-- 📦 Inventory tracking for skins, cases, and items 
-- 💰 Automated calculations:
+- Inventory tracking for skins, cases, and items 
+- Automated calculations:
   - Purchase price  
   - Current market value  
   - Profit / loss  
-- 🔄 Trade history logging system
-- 📈 ROI and performance tracking 
-- 🎨 Conditional formatting for visual insights  
-- 📊 Structured spreadsheet design (Excel + Google Sheets compatible) 
-- 🤝 Contribution workflow with review and approval system
+- Trade history logging system
+- ROI and performance tracking 
+- Conditional formatting for visual insights  
+- Structured spreadsheet design (Excel + Google Sheets compatible) 
+- Contribution workflow with review and approval system
 
 ---
 
-## 📂 Spreadsheet
+## Spreadsheet
 
 The official Counter-Strike Inventory Tracker spreadsheet is available here:
 
-👉 **[Open in Google Sheets](https://docs.google.com/spreadsheets/d/1FUhwWi9YzfkHnesqfPGaWub7LKwah8y3D4wH4mGlZS0/edit?usp=sharing)**  
-👉 **[Download Excel Version](data/cs-inventory-tracker.xlsx)**
+**[Open in Google Sheets](https://docs.google.com/spreadsheets/d/1FUhwWi9YzfkHnesqfPGaWub7LKwah8y3D4wH4mGlZS0/edit?usp=sharing)**  
+**[Download Excel Version](data/cs-inventory-tracker.xlsx)**
 
 - Works in **Microsoft Excel** and **Google Sheets**  
 - No installation required  
@@ -69,61 +69,61 @@ The official Counter-Strike Inventory Tracker spreadsheet is available here:
 > Future improved versions can be submitted to the `contributions/` folder. Contributions require approval before merging.
 
 ---
-## 🧮 Formulas
+## Formulas
 
 This spreadhseet is powered by formulas.
 
-👉 Full breakdown here: [Formulas Guide](docs/FORMULAS.md)
+Full breakdown here: [Formulas Guide](docs/FORMULAS.md)
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 ```bash
 cs-inventory-tracker/
 │
-├── 📄 README.md
-├── 📄 LICENSE
-├── 📄 SECURITY.md
-├── 📄 CODE_OF_CONDUCT.md
-├── 📄 .gitignore
+├── README.md
+├── LICENSE
+├── SECURITY.md
+├── CODE_OF_CONDUCT.md
+├── .gitignore
 │
-├── 📁 docs/
+├── docs/
 │   ├── FORMULAS.md
 │   ├── LICENSE.md
 │   ├── FAQ.md
 │   └── CONTRIBUTING.md
 │
-├── 📁 data/
+├── data/
 │   ├── cs-inventory-tracker.xlsx
 │   └── (Google Sheets link)
 │
-├── 📁 scripts/
+├── scripts/
 │   ├── api/
 │   │   └── (API integration scripts)
 │   └── utils/
 │       └── (helper scripts / automation)
 │
-├── 📁 screenshots/
+├── screenshots/
 │   ├── overview.png
 │   ├── master-list.png
 │   └── loadout.png
 │
-└── 📁 contributions/
+└── contributions/
     └── (community pull requests)
 ```
 ---
 
-## 🤝 Contribution Workflow
+## Contribution Workflow
 
 1. Contributors can propose improved spreadsheets in the `contributions/` folder  
 2. Open a Pull Request with a clear description of changes or enhancements  
 3. Only approved contributions will be merged to maintain quality and consistency
 
-For full guidelines, see 👉 [Contributing Guide](docs/CONTRIBUTING.md)
+For full guidelines, see [Contributing Guide](docs/CONTRIBUTING.md)
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### Overview
 ![Overview](screenshots/overview.png)
@@ -138,7 +138,7 @@ For full guidelines, see 👉 [Contributing Guide](docs/CONTRIBUTING.md)
 
 ---
 
-## 🚀 Project Status
+## Project Status
 
 ✔ v1.0 Stable Release  
 ✔ Fully documented  
@@ -147,7 +147,7 @@ For full guidelines, see 👉 [Contributing Guide](docs/CONTRIBUTING.md)
 
 ---
 
-## 📚 Documentation & Help
+## Documentation & Help
 
 - [FAQ](docs/FAQ.md)
 - [Contributing Guide](docs/CONTRIBUTING.md)
@@ -158,7 +158,7 @@ For full guidelines, see 👉 [Contributing Guide](docs/CONTRIBUTING.md)
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.  
-👉 [View License](LICENSE)
+[View License](LICENSE)
