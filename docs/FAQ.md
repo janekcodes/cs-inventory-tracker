@@ -1,10 +1,10 @@
-# ❓ FAQ
+# FAQ
 
 This FAQ covers common questions about using the **Counter-Strike Inventory Tracker** spreadsheet (Excel & Google Sheets).
 
 ---
 
-## 📂 General Questions
+## General Questions
 
 **Q1: What platforms are supported?**  
 - Microsoft Excel (Windows & Mac)  
@@ -18,7 +18,7 @@ This FAQ covers common questions about using the **Counter-Strike Inventory Trac
 
 ---
 
-## 💰 Profit/Loss Calculations
+## Profit/Loss Calculations
 
 **Q4: How is profit/loss calculated?**  
 - Formula: `=CurrentValue - PurchasePrice`  
@@ -27,11 +27,11 @@ This FAQ covers common questions about using the **Counter-Strike Inventory Trac
 **Q5: How do I sum total profit?**  
 - Example formula: `=SUM(M11:M1000)` (adjust range for your data).
 
-👉 Full breakdown here: [Formulas Guide](docs/FORMULAS.md)
+Full breakdown here: [Formulas Guide](docs/FORMULAS.md)
 
 ---
 
-## 📊 Features & Usage
+## Features & Usage
 
 **Q6: Can I track trades?**  
 - Yes! Record your trades in the dedicated sheet. Profit/loss and inventory updates automatically reflect.
@@ -44,7 +44,7 @@ This FAQ covers common questions about using the **Counter-Strike Inventory Trac
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 **Q9: Can I contribute improvements?**  
 - Yes! Submit updated spreadsheets to `/contributions/` and open a Pull Request.  
@@ -55,7 +55,7 @@ This FAQ covers common questions about using the **Counter-Strike Inventory Trac
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 **Q11: Some formulas don’t work in Google Sheets / Excel**  
 - Ensure you are using the correct file type: `.xlsx` for Excel, Google Sheets version for Sheets.  
