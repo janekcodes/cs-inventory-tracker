@@ -1,4 +1,4 @@
-# 🤝 Contributing Guide
+# Contributing Guide
 
 Welcome to the **Counter-Strike Inventory Tracker** contributing guide.
 
@@ -7,7 +7,7 @@ All contributors are expected to follow these steps and standards to ensure code
 
 ---
 
-## 📌 Overview
+## Overview
 
 Before contributing:
 
@@ -17,7 +17,7 @@ Before contributing:
 
 ---
 
-## 🚀 Step-by-Step Contribution Process
+## Step-by-Step Contribution Process
 
 ### Step 1 - Fork the Repository
 
@@ -127,7 +127,7 @@ Include in your PR:
 
 ---
 
-### 🔄 Keeping Your Fork Updated
+### Keeping Your Fork Updated
 
 ```bash
 git checkout main
@@ -141,7 +141,7 @@ git rebase main
 
 ---
 
-## 🚀 Workflow
+## Workflow
 
 1. Fork repository  
 2. Clone locally  
@@ -153,7 +153,7 @@ git rebase main
 
 ---
 
-## 🌿 Branch Naming Examples
+## Branch Naming Examples
 
 - feature/add-profit-system  
 - chore/roi-calculation  
@@ -161,7 +161,7 @@ git rebase main
 
 ---
 
-## 💾 Commit Style
+## Commit Style
 
 ```text
 feat: add new feature
@@ -172,18 +172,18 @@ chore: code cleanup
 
 ---
 
-### 📂 FAQ
+### FAQ
 
 Documention for user support and common questions.
 
-👉 [View FAQ](FAQ.md)
+[View FAQ](FAQ.md)
 
 ---
 
-### 📜 License
+### License
 
 By contributing, you agree that your contributions are licensed under the project's license.
 
-👉 [View License](../LICENSE)
+[View License](../LICENSE)
 
 ---
