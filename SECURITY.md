@@ -1,4 +1,4 @@
-# 🔐 Security Policy
+# Security Policy
 
 ## Supported Versions
 
@@ -11,7 +11,7 @@ Only the latest version of this project is actively maintained. Current Verion: 
 
 ---
 
-## ⚠️ API Keys & Sensitive Data
+## API Keys & Sensitive Data
 
 This project may include scripts that use external APIs.
 
