@@ -151,8 +151,6 @@ For full guidelines, see [Contributing Guide](docs/CONTRIBUTING.md)
 
 - [FAQ](docs/FAQ.md)
 - [Contributing Guide](docs/CONTRIBUTING.md)
-- [License Info](docs/LICENSE.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Security Policy](SECURITY.md)
 - [Formulas Guide](docs/FORMULAS.md)
 
